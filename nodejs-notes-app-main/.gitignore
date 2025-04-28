@@ -1,0 +1,13 @@
+# Node.js
+/node_modules
+
+# npm
+/package-lock.json
+
+# Environment variables
+/.env
+
+# Dist directory
+/dist
+
+/docs/arch/
